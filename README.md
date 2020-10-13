@@ -1,3 +1,3 @@
-![Header](giphy1.gif)
+![Header]()
 
 Nice to meet you, thank you for visiting my GitHub!
